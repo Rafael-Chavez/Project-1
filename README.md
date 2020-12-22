@@ -1,1 +1,1 @@
-# Project-1
+# covid-targeted-donations
