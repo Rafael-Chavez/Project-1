@@ -10,6 +10,10 @@
 * [Charity API](http://charityapi.orghunter.com/content/charity-search-summary-api)
 * [COVID Data by Location](https://documenter.getpostman.com/view/10122604/TVCe29D4#9e5b3384-a1d8-446d-b27e-c93fefb46014)
 
+## Contributions
+
+Rafael Chavez, Alsharif Eid, Kyle Chriscoe, and Kevin Buttimer.
+
 ## Credits
 
 * [The COVID Tracking Project](https://covidtracking.com/)
