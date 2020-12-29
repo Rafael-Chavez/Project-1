@@ -67,6 +67,9 @@ let myChart = document.getElementById('myChart').getContext('2d');
                                335899,
                            ],
                            backgroundColor: 'red',
+                           borderWidth:1,
+                           hoverBorderWidth:3,
+                           hoverBorderColor: 'black',
                        }]
                    },
                    options: {
