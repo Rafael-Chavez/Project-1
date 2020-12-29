@@ -19,7 +19,7 @@ let myChart = document.getElementById('myChart').getContext('2d');
                             7168137,
                             9054023,
                             13463395,
-                            18016698,
+                            19016698,
                         ],
                         backgroundColor: 'red',                      
                         borderWidth:1,
@@ -64,7 +64,7 @@ let myChart = document.getElementById('myChart').getContext('2d');
                                199084,
                                222639,
                                259697,
-                               314099,
+                               335899,
                            ],
                            backgroundColor: 'red',
                        }]
