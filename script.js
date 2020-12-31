@@ -1,3 +1,10 @@
+var queryURL = "https://api.covidcountydata.org/covidtrackingproject?fips=eq.12&limit=20" + "&ccd_apikey";
+
+$.ajax({
+    url: queryURL,
+    method: "GET"
+})
+
 let myChart = document.getElementById('myChart').getContext('2d');
             let chart2 = document.getElementById('chart2').getContext('2d');
 
